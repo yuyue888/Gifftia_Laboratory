@@ -14,7 +14,8 @@
 7.The Budget
 
 8.Organizational Informatoin
-
+  多用户客户端之间通信将信息发送服务器，由服务器统一处理，经过进一步的加工和处理，最后发到目标客户端。
+  具体的加工处理如：在消息头加入发送者的账户名等。
 9.Letter Proposal
-
+  用户使用后可以提出一些尚未改进的地方，争取让用户使用的更加方便。
 10.Conclusion
